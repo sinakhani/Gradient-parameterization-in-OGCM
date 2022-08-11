@@ -1,0 +1,9 @@
+# THE MAIN CODES TO RUN ARE:
+
+SGS_Geost_Strm_fun_filt_CHNL.m          ### SGS FLUXES FOR CHANNEL CONFIGURATION (See the code).
+SGS_Geost_Strm_fun_filt_NEV.m           ### SGS	FLUXES FOR NEVERWORLD CONFIGURATION (See the code).
+Spect_Calc_Mem_eff.m                    ### KE and EKE SPECTRA FOR CHANNEL &  NEVERWORLD CONFIGURATIONS (See the code).
+
+# GRADIENT MODEL CODES:
+
+The subroutines/functions for gradient model computations will be added when the work is published (more soon!)
