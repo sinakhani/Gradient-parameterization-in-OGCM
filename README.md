@@ -4,4 +4,4 @@ In this project, we introduce a new subgrid-scale parameterization for represent
 
 
 
-***Please contact sina.khani@austin.utexas.edu for access to high-resolution Neverworld data***
+***Please contact sina.khani@austin.utexas.edu or skhani@princeton.edu for access to high-resolution Neverworld data***
